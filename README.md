@@ -1,1 +1,23 @@
-# magic-
+# magic-魔法目录
+
+2023.2.24
+
+🇺🇸_US_美国	
+2.91mb/s	2023-02-24 06:26:28	vmess
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoieG4tLTVidXc4NWUueG4tLWdocXc2amt3MGEubGl2ZSIsInBvcnQiOjQ0MywiaWQiOiI5Y2E0ZTFmYy1kNTY0LTQxM2MtZmExNS1mMTgyMTA5OTk3MGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6InRscyJ9
+
+🇭🇰_HK_香港	
+2.13mb/s	2023-02-24 06:26:28	vmess
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7BfSEtf6aaZ5rivIiwiYWRkIjoiOC4yMTguNzkuMTk1IiwicG9ydCI6MzY1OTUsImlkIjoiZTg3ODFiYTEtN2MxNi00NmEzLWEyNGEtZWJiNTJlODNmMDA2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInRscyI6IiJ9
+
+🇨🇳_CN_中国->🇯🇵_JP_日本	
+4.85mb/s	2023-02-24 06:26:30	trojan
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+
+🇩🇪_DE_德国	
+1.04mb/s	2023-02-24 06:54:42	ssr
+ssr://ejAxMTAuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP3JlbWFya3M9OEorSHFmQ2ZoNnBmUkVWZjViNjM1WnU5Jm9iZnNwYXJhbT1kM2QzTG0xcFkzSnZjMjltZEM1amIyMGpWWE5sY2kxQloyVnVkRHBOYjNwcGJHeGhMelV1TUNocFVHaHZibVU3UTFCVmFWQm9iMjVsVDFNeE1WODBYekZzYVd0bFRXRmpUMU5ZS1VGd2NHeGxWMlZpUzJsMEx6WXdNaTQwTGpZb1MwaFVUVXdzYkdsclpVZGxZMnR2S1ZabGNuTnBiMjR2TVRBdU1FMXZZbWxzWlM4eE5FUXlOMDFwWTNKdlRXVnpjMlZ1WjJWeUx6WXVOUzR4TTBGalkyVndkRG92UTI5dWJtVmpkR2x2YmpwclpXVndMV0ZzYVhabA==
+
+🇸🇬_SG_新加坡	
+11.03mb/s	2023-02-24 06:30:37	ssr
+ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9yZW1hcmtzPThKK0h1UENmaDZ4ZlUwZGY1cGF3NVlxZzVaMmg=

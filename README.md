@@ -1,5 +1,32 @@
 # magic-魔法目录
 
+
+2023.3.2
+
+🇺🇸_US_美国	
+0.42mb/s	2023-03-02 15:25:57	vmess
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoidXMtZHAuc2hhcmVjZW50cmUub25saW5lIiwicG9ydCI6NDQzLCJpZCI6IjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoidGxzIn0=
+
+
+🇸🇬_SG_新加坡->🇬🇧_GB_英国	
+1.94mb/s	2023-03-02 15:50:30	vmess
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xfU0df5paw5Yqg5Z2hLT7wn4es8J+Hp19HQl/oi7Hlm70iLCJhZGQiOiI1NC4xNjkuMjU1LjE3MyIsInBvcnQiOjkwMDAsImlkIjoiYTgyODUwYWMtYTBjYS00YTM2LWE4ZWEtNWI0MGZhMzA5OTFlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoiIn0=
+
+
+🇺🇸_US_美国	
+2.14mb/s	2023-03-02 15:19:44	vmess
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiYnV5dm0uc2hhcmVjZW50cmUub25saW5lIiwicG9ydCI6NDQzLCJpZCI6IjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9zaGlya2VyIiwidGxzIjoidGxzIn0=
+
+
+🇧🇿_BZ_伯利兹->🇺🇸_US_美国	
+3.96mb/s	2023-03-02 15:25:57	vmess
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh79fQlpf5Lyv5Yip5YW5LT7wn4e68J+HuF9VU1/nvo7lm70iLCJhZGQiOiIyMDMuMzAuMTg5LjE4OSIsInBvcnQiOjQ0MywiaWQiOiI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJsZzEudHJ1bXAyMDIzLnVzIiwicGF0aCI6Ii9FQ1RDSjBERiIsInRscyI6InRscyJ9
+
+
+
+
+
+
 2023.2.24
 
 🇺🇸_US_美国	

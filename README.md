@@ -1,5 +1,11 @@
 # magic-魔法目录
 
+Win系统 电脑版魔法工具v2rayN
+https://github.com/craftchai/V2ray-App/blob/main/v2rayN-With-Core.zip
+
+安卓手机版 魔法工具v2rayNG
+https://github.com/craftchai/V2ray-App/blob/main/v2rayNG_1.7.38.apk
+
 
 2023.3.2
 
